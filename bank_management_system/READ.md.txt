@@ -1,0 +1,32 @@
+# Bank Management System
+
+A Java console application that simulates basic banking operations.
+
+## Features
+
+* Create Bank Account
+* Deposit Money
+* Withdraw Money
+* Balance Management
+* Exception Handling
+* Custom Exceptions
+
+## Concepts Used
+
+* Classes and Objects
+* Exception Handling
+* Custom Exceptions
+* Methods
+
+## How to Run
+
+```bash
+javac BankSystem.java
+java BankSystem
+```
+
+## Output
+
+![Program Output Part 1](screenshots/output1.png)
+
+![Program Output Part 2](screenshots/output2.png)

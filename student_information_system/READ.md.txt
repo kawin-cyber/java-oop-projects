@@ -1,0 +1,26 @@
+# Student Information System
+
+A Java application for managing student information and demonstrating basic object-oriented programming concepts.
+
+## Features
+
+* Add Student Information
+* Display Student Records
+* Manage Student Data
+
+## Concepts Used
+
+* Classes and Objects
+* Constructors
+* Arrays of Objects
+
+## How to Run
+
+```bash
+javac StudentInformationSystem.java
+java StudentInformationSystem
+```
+
+## Output
+
+![Program Output](screenshots/output.png)
